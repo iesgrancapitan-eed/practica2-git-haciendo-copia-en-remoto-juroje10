@@ -32,5 +32,9 @@
 
 ![alt text](img/img_4.png)
 
+![alt text](img/img_4_2.png)
+
 
 5. Sincroniza tus cambios con el repositorio remoto (git push)
+
+![alt text](img/img_5.png)
